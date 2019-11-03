@@ -1,2 +1,2 @@
 # Project-to-create-student-details
-create student list &amp; delate student entry if they dropped out
+create student list & delete student entry if they dropped out
